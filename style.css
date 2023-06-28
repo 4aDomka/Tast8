@@ -1,0 +1,28 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.btn-less {
+    background: rgb(9, 255, 0);
+    color:rgb(114, 50, 233)
+    
+}
+
+.btn-over {
+    background: rgba(241, 19, 149, 0.753);
+    color:rgb(33, 236, 243)
+    
+}
+
+.card-body{
+    background-color: rgb(45, 252, 252);
+}
+
+.card-header{
+    background-color: rgb(45, 252, 252);
+}
+
+.card-footer{
+    background-color: rgb(45, 252, 252);
+}
